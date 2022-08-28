@@ -30,7 +30,7 @@ function Projects() {
             <ProjectCards
               imgPath="https://i.ibb.co/sKVSdGk/chatapp.png"
               title="Messanger Chat-App"
-              description="Its a mini Chat application which facilitates real time chatting/messaging feature with your friends"
+              description="Its a Chat application which facilitates real time chatting/messaging feature with your friends"
               tech="Tech-Stacks"
               techD="React | Redux | Node.js | Styled-components | Socket-IO "
               link="https://master.d3mgm6ugvhrum8.amplifyapp.com/"
