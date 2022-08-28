@@ -29,7 +29,7 @@ function Projects() {
         <Col md={6} className="project-card">
             <ProjectCards
               imgPath="https://i.ibb.co/sKVSdGk/chatapp.png"
-              title="Massenger Chat-App"
+              title="Messanger Chat-App"
               description="Its a mini Chat application which facilitates real time chatting/messaging feature with your friends"
               tech="Tech-Stacks"
               techD="React | Redux | Node.js | Styled-components | Socket-IO "
@@ -56,7 +56,7 @@ function Projects() {
               title="Lumen5 Clone"
               description="Lumen5 is a website where a user can easily make videos for content marketing, through leadership and brand awareness in a snap."
               tech="Tech-Stacks"
-              techD="React | Redux | Stylen-components | MongoDB | Express | Node.js"
+              techD="React | Redux | Styled-components | MongoDB | Express | Node.js"
               link="https://lumen5-murex.vercel.app/"
               a="https://github.com/manjari5506/lumen5"
             />
